@@ -1,0 +1,11 @@
+Creating a tablebase:
+
+for max:
+
+    for min turn:
+
+    3,2,1,0 win
+    3,1,1,0 win
+    3,0,1,0 win
+
+etc
